@@ -10,7 +10,8 @@ This project combines **Python-based Exploratory Data Analysis (EDA)** and a ful
 
 **Highlights:**
 - Missing value & duplicate check
-- Univariate and Bivariate Analysis
+- Statistical Analysis
+- Univariate and Multivariate Analysis
 
 
 
