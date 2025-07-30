@@ -4,7 +4,7 @@ This project combines **Python-based Exploratory Data Analysis (EDA)** and a ful
 
 ### 📷 Dashboard Preview
 
-![Dashboard Preview](credit card fraud dashboard.png)
+![Dashboard Preview](credit_card_fraud_dashboard.png)
 
 ## 🧪 Exploratory Data Analysis (EDA)
 
